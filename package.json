@@ -1,16 +1,16 @@
 {
-"name": "mmc333",
-"theme": "mmc333",
-"version": "4.1.1",
-"description": "mmc333 สมัครเว็บพนันเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
-"keywords": [
-"mmc333",
-"mmc333 เครดิตฟรี",
-"mmc333 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mmc333",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mmc333",
+  "theme": "mmc333",
+  "version": "4.2.0",
+  "description": "mmc333 สมัครเว็บพนันเว็บตรง ไม่มีขั้นต่ำ ให้เครดิตฟรี",
+  "keywords": [
+    "mmc333",
+    "mmc333 เครดิตฟรี",
+    "mmc333 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mmc333",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
